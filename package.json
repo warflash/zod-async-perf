@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bench": "node index.js"
+  },
+  "dependencies": {
+    "zod": "^3.23.4"
+  }
+}
